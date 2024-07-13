@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Sastreria"
+  DTS:DTSID="{08F78622-20FB-48C1-A2EF-A0C9A4E3E999}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Sastreria;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SISS-{08F78622-20FB-48C1-A2EF-A0C9A4E3E999}localhost.Sastreria;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
